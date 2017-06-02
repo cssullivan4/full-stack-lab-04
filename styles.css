@@ -1,0 +1,12 @@
+.square {
+    width: 3em;
+    height: 3em;
+    font-size: 5em;
+    color: white;
+    background-color: black;
+    text-align: center;
+    line-height: 3em;
+    vertical-align: middle;
+    margin: 0.2em;
+    float: left;
+}
